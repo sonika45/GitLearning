@@ -1,6 +1,1 @@
-console.log("Hello world");
-console.log("Hello there");
-
-console.log("Our second commit");
-
-console.log("For the third commit");
+console.log("We are on the new branch and the new beginning");
